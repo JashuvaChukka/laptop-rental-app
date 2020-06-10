@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Online Laptop Rental App</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an account? Register Here</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="online_laptop_rental_app">ONLINE LAPTOP RENTAL APP</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email ID</string>
+    <string name="todo">TODO</string>
+    <string name="enter_emal_id">Enter Emal ID</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="re_enter_password">re enter password</string>
+    <string name="already_have_an_account_login">Already have an account? login</string>
+    <string name="register">Register</string>
+    <string name="reset_password">reset password</string>
+    <string name="email_id1">Email ID</string>
+    <string name="logout">logout</string>
+    <string name="add_device">Add Device</string>
+    <string name="cart">cart</string>
+    <string name="logout1">Logout</string>
+    <string name="details">Details :</string>
+    <string name="brand">Brand</string>
+    <string name="processor">Processor</string>
+    <string name="memory">Memory</string>
+    <string name="choose_image">Choose image</string>
+    <string name="add">add</string>
+    <string name="todo1">TODO</string>
+    <string name="phone_number">Phone number</string>
+    <string name="laptop_details">Laptop details:</string>
+    <string name="textview">TextView</string>
+    <string name="info">info</string>
+    <string name="view_details">View Details...</string>
+    <string name="brand4">brand</string>
+    <string name="processor4">Processor :</string>
+    <string name="memory4">Memory :</string>
+    <string name="phone_no4">phone no. :</string>
+    <string name="email_id4">Email ID :</string>
+    <string name="todo5">TODO</string>
+    <string name="textview9">TextView</string>
+    <string name="upload_data">upload data</string>
+    <string name="register7">REGISTER</string>
+    <string name="login7">LOGIN</string>
+    <string name="already_have_an_account_click_here_to_login">Already have an account?Click here to Login</string>
+    <string name="my_devices">My devices</string>
+    <string name="my_rented_devices">My Rented Devices</string>
+    <string name="about_info">About info</string>
+    <string name="avail">Available Features</string>
+    <string name="ok">OK</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="clear">Clear all</string>
+    <string name="choose_available_features">choose available features</string>
+    <string name="memory_in_gb">Memory in GB</string>
+    <string name="ram_in_gb">RAM in GB</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="add_device1">Add Device</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="enter_mobile_number">Enter Mobile number</string>
+    <string name="send_otp">send otp</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="continue7">Continue</string>
+    <string name="continue6">continue</string>
+    <string name="fill_the_details">Fill the Details</string>
+    <string name="no_of_hours">No. of hours :</string>
+
+    <string-array name="features_list">
+        <item>Java software</item>
+        <item>Python software</item>
+        <item>Turbo C</item>
+        <item>Dev C++</item>
+        <item>Pycharm</item>
+        <item>Notepad++</item>
+        <item>Sublime</item>
+        <item>Wamp Server</item>
+        <item>Apache tomcat</item>
+        <item>Jupyter notebook</item>
+        <item>Arduino software</item>
+        <item>IntelliJ IDEA</item>
+        <item>Android Studio</item>
+        <item>VS code</item>
+        <item>Eclipse</item>
+        <item>Adobe XD</item>
+    </string-array>
+
+</resources>

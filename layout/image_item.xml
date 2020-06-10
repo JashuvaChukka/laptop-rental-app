@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="#fff"
+    app:contentPadding="5dp"
+    app:cardCornerRadius="3dp"
+    app:cardElevation="3dp"
+    app:cardUseCompatPadding="true"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/view1"
+        >
+
+        <ImageView
+            android:id="@+id/lap_img2"
+            android:layout_width="180dp"
+            android:layout_height="122dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/view2"
+        >
+
+        <TextView
+            android:id="@+id/brand_1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="#3F51B5"
+            android:textSize="26sp" />
+
+        <TextView
+            android:id="@+id/memory_1"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+
+            android:textColor="#FF9800"
+            android:textSize="18sp" />
+
+           <TextView
+                android:id="@+id/ram"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+
+                android:textColor="#FF9800"
+                android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/availability"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:gravity="center"
+            android:text="Available Now"
+            android:textColor="#FF1100"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

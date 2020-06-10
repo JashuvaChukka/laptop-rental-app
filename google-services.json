@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "681082931711",
+    "firebase_url": "https://online-laptop-rental-app.firebaseio.com",
+    "project_id": "online-laptop-rental-app",
+    "storage_bucket": "online-laptop-rental-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681082931711:android:55f6315fcd7c45679dffca",
+        "android_client_info": {
+          "package_name": "com.lenovo.onlinelaptoprentalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681082931711-5q3l1ofjbtv33j8dto5cat32vq3pmlst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lenovo.onlinelaptoprentalapp",
+            "certificate_hash": "88f505400e00b7532d6825b96fb382984281ccff"
+          }
+        },
+        {
+          "client_id": "681082931711-p3gut4h9lmj4fsla3nh443lh3ivmlrio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgXcAM8Bv40RuzSQS-ollAU7_tpVrsfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681082931711-p3gut4h9lmj4fsla3nh443lh3ivmlrio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/homee2"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".RegisterActivity">
+
+    <EditText
+        android:id="@+id/emailr"
+        android:layout_width="260dp"
+        android:layout_height="40dp"
+        android:autofillHints=""
+        android:background="#60090909"
+        android:ems="10"
+        android:hint="@string/enter_emal_id"
+        android:inputType="textEmailAddress"
+        android:textColor="#ffffff"
+        android:textColorHint="#AAA7A7" />
+
+    <EditText
+        android:id="@+id/pass1"
+        android:layout_width="260dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="32dp"
+        android:autofillHints=""
+        android:background="#60090909"
+        android:ems="10"
+        android:hint="@string/enter_password"
+        android:inputType="textPassword"
+        android:textColor="#ffffff"
+        android:textColorHint="#AAA7A7" />
+
+    <EditText
+        android:id="@+id/repass1"
+        android:layout_width="260dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="32dp"
+        android:autofillHints=""
+        android:background="#60090909"
+        android:ems="10"
+        android:hint="@string/re_enter_password"
+        android:inputType="textPassword"
+        android:textColor="#ffffff"
+        android:textColorHint="#AAA7A7" />
+
+    <Button
+        android:id="@+id/register1"
+        android:layout_width="150dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="42dp"
+        android:textColor="#FFFFFF"
+        android:textSize="18dp"
+        android:background="@drawable/button_color"
+        android:text="@string/register" />
+
+    <TextView
+        android:id="@+id/login1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        android:text="@string/already_have_an_account_click_here_to_login"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="#ffffff" />
+</LinearLayout>
